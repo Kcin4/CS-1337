@@ -1,0 +1,120 @@
+Hello! My name is Morris.
+I am a(n) cat.
+I am 9 year(s) old.
+I weigh 3 pound(s).
+My breed is mixed.
+I am yellow in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Mittens.
+I am a(n) cat.
+I am 1 year(s) old.
+I weigh 1 pound(s).
+My breed is Calico.
+I am brown and white in color.
+My health record: good
+I like to go *Meow*
+
+Hello! My name is Mickey.
+I am a(n) mouse.
+I do not know how old I am.
+I do not know how much I weigh.
+My breed is Cartoon.
+I am grey in color.
+My health record: good
+I like to go *Squeek*
+
+Hello! My name is Priss.
+I am a(n) cat.
+I am 2 year(s) old.
+I weigh 3 pound(s).
+My breed is Heinz.
+I am white in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Bitsy.
+I am a(n) cat.
+I am 4 year(s) old.
+I weigh 6 pound(s).
+My breed is Manx.
+I am grey in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Charmin.
+I am a(n) cat.
+I am 2 year(s) old.
+I weigh 3 pound(s).
+My breed is Ragdoll.
+I am white in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Fido.
+I am a(n) dog.
+I am 5 year(s) old.
+I weigh 7 pound(s).
+My breed is Spaniel.
+I am spotted in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Cute Stuff.
+I am a(n) cat.
+I am 1 year(s) old.
+I weigh 2 pound(s).
+My breed is Persian.
+I am yellow in color.
+My health record: good
+I like to go *Mew*
+
+Hello! My name is Rex.
+I am a(n) dog.
+I am 3 year(s) old.
+I weigh 5 pound(s).
+My breed is Mutt.
+I am brown and white in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Sparky.
+I am a(n) dog.
+I am 5 year(s) old.
+I weigh 14 pound(s).
+My breed is Dalmation.
+I am Spotted in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Chippy.
+I am a(n) chipmunk.
+I am 2 year(s) old.
+I weigh 1 pound(s).
+I do not know what breed I am.
+I am White and gold in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Max.
+I am a(n) dog.
+I am 6 year(s) old.
+I weigh 4 pound(s).
+I do not know what breed I am.
+I am brown in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Killer.
+I am a(n) dog.
+I am 7 year(s) old.
+I weigh 4 pound(s).
+My breed is Doberman Pinscher.
+I am brown in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+
+Process returned 0 (0x0)   execution time : 0.129 s
+Press any key to continue.

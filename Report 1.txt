@@ -1,0 +1,6 @@
+Number of animals created: 20
+Number of cats created: 10
+Number of dogs created: 7
+
+Process returned 0 (0x0)   execution time : 0.028 s
+Press any key to continue.

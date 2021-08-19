@@ -1,0 +1,66 @@
+Hello! My name is Fido.
+I am a(n) dog.
+I am 5 year(s) old.
+I weigh 7 pound(s).
+My breed is Spaniel.
+I am spotted in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Rex.
+I am a(n) dog.
+I am 3 year(s) old.
+I weigh 5 pound(s).
+My breed is Mutt.
+I am brown and white in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Sparky.
+I am a(n) dog.
+I am 5 year(s) old.
+I weigh 14 pound(s).
+My breed is Dalmation.
+I am Spotted in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Max.
+I am a(n) dog.
+I am 6 year(s) old.
+I weigh 4 pound(s).
+I do not know what breed I am.
+I am brown in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+Hello! My name is Alex.
+I am a(n) dog.
+I am 4 year(s) old.
+I weigh 2 pound(s).
+My breed is Heinz 57.
+I do not know what color I am.
+My health record: heart worms
+I like to go *Grrrrrrrr*
+
+Hello! My name is Old Yeller.
+I am a(n) dog.
+I am 5 year(s) old.
+I weigh 7 pound(s).
+My breed is Labrador.
+I am yellow in color.
+My health record: rabies
+I like to go *Grrrrrrrr*
+
+Hello! My name is Killer.
+I am a(n) dog.
+I am 7 year(s) old.
+I weigh 4 pound(s).
+My breed is Doberman Pinscher.
+I am brown in color.
+My health record: good
+I like to go *Grrrrrrrr*
+
+
+Process returned 0 (0x0)   execution time : 0.073 s
+Press any key to continue.
